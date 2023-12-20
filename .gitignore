@@ -1,0 +1,5 @@
+# IntelliJ IDEA files
+.idea/
+
+# Operating System files
+.DS_Store
