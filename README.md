@@ -29,7 +29,12 @@ The project is structured as follows:
 
 1. Open a terminal or command prompt.
 2. Navigate to the directory containing the compiled Java class files.
-3. Run the following command:
+3.  - Run the following command to analyze and document the structure of a directory and save the results to the `data/walkdir.txt`:
 
    ```bash
-   java TreeStructureAnalyzer </Full/path_to_directory_or_file>
+   java TreeStructureAnalyzer </Full/path_to_directory> 
+   ```
+   - - Run the following command to print the `data/walkdir.txt` to the console:
+    ```bash
+    java TreeStructureAnalyzer </Full/path_to_walkdir.txt> 
+    ```
