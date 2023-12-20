@@ -34,7 +34,7 @@ The project is structured as follows:
    ```bash
    java TreeStructureAnalyzer </Full/path_to_directory> 
    ```
-   - - Run the following command to print the `data/walkdir.txt` to the console:
+   - Run the following command to print the `data/walkdir.txt` to the console:
     ```bash
     java TreeStructureAnalyzer </Full/path_to_walkdir.txt> 
     ```
